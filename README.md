@@ -1,2 +1,2 @@
-bowhead-whale-supplementary
+bowhead whale supplementary
 ===========================
